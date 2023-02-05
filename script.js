@@ -1,3 +1,4 @@
+//game season
 function game1() {
     let month = prompt("Напишите номер месяца");
     if (month == 1 || month == 2 || month == 12) {
@@ -16,4 +17,4 @@ function game1() {
         game1();
     }
 }
-
+//game end
